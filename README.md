@@ -6,6 +6,8 @@
 
 *Building low-level utilities, exploring OS internals, and writing clean, efficient code.*
 
+`> Fresh workspace — migrating and rebuilding previous projects from scratch.`
+
 </div>
 
 ---
