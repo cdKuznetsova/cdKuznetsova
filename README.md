@@ -1,13 +1,9 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=180&section=header&text=cdKuznetsova&fontSize=42&fontColor=c9d1d9&fontAlignY=38&desc=C%2B%2B%20%26%20Windows%20Systems%20Developer&descAlignY=60&descSize=16" width="100%" />
 
-# `cdKuznetsova`
+  *Building low-level utilities, exploring OS internals, and writing clean, efficient code.*
 
-**C++ & Windows Systems Developer**
-
-*Building low-level utilities, exploring OS internals, and writing clean, efficient code.*
-
-`> Fresh workspace — migrating and rebuilding previous projects from scratch.`
-
+  `> Fresh workspace — migrating and rebuilding previous projects from scratch.`
 </div>
 
 ---
